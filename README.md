@@ -1,4 +1,4 @@
-# Projeto - Gestão Escolar (SQL)
+# Projeto - Gestão Escolar SQL
 
 Projeto desenvolvido para demonstrar conhecimentos em modelagem e consultas analíticas utilizando SQL.
 
